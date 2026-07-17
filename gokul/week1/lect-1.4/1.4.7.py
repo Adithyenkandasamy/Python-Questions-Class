@@ -2,8 +2,10 @@
 # ```
 # print("Enter a number:")
 # n=int(input())
-# print(n)
-# print(n+1)
-# print(n+2)
-# print(n+3)
+n = int(input("Enter a Number:"))
+print(n)
+print(n+1)
+print(n+2)
+print(n+3)
 # ```
+# Answer:

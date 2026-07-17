@@ -8,3 +8,11 @@
 #     *********#
 #     i don't know what to type
 #     ```
+
+# Answer:
+print("*")
+print("**")
+print("***")
+print("****")
+print("*****")
+
